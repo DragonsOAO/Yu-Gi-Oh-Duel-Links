@@ -9,4 +9,9 @@
 
 ## 模擬滑鼠移動點擊，非外掛腳本、不修改遊戲數值。
 
-## 下圖為詳細教程供參考:
+## 下方為詳細教程供參考:
+
+    前置作業:
+  [image](https://github.com/user-attachments/assets/21b95e45-9e36-4bb2-91b7-61c5f6d794dd)
+
+
