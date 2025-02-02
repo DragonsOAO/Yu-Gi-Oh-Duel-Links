@@ -1,3 +1,4 @@
 # Yu-Gi-Oh-Duel-Links
 遊戲王決鬥聯盟(Yu-Gi-Oh! Duel Links) 自動掛機腳本
-![!Initiative](https://github.com/user-attachments/assets/8753236a-5ad3-4b0b-a0c2-8dc48e70ab6e)
+簡介:
+  刷角色等級、素材。可以刷傳送門(LV10)與決鬥者(路人、傳奇、其他、活動)
