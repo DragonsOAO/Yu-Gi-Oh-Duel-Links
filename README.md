@@ -11,7 +11,4 @@
 
 ## 下方為詳細教程供參考:
 
-    前置作業:
-  [image](https://github.com/user-attachments/assets/21b95e45-9e36-4bb2-91b7-61c5f6d794dd)
-
-
+![DLAUTOSC](https://github.com/user-attachments/assets/ab4aa4eb-48c2-4d1e-a046-e51b256dadef)
